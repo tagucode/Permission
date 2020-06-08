@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:andorid="http://schemas.android.com/apk/res/android"
+    andorid:layout_width="match_parent"
+    andorid:layout_height="match_parent"
+    andorid:orientation="vertical">
+
+    <Button
+        andorid:id="@+id/button"
+        andorid:layout_width="match_parent"
+        andorid:layout_height="wrap_content"
+        andorid:text="パーミッション"/>
+
+</LinearLayout>
